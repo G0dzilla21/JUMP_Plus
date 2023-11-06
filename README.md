@@ -10,3 +10,6 @@ https://github.com/G0dzilla21/javascript-frontend-project
 
 ## Forum App V2 Repository:
 https://github.com/G0dzilla21/forum-app-v2
+
+## Job Application Tracker:
+https://github.com/G0dzilla21/job-app-tracker.git
